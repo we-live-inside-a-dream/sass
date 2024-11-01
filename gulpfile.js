@@ -3,7 +3,9 @@ const sass = require("gulp-sass")(require("sass"));
 
 // Compiling SCSS to CSS
 function buildStyles() {
-  return src("shinobi/**/*.scss").pipe(sass()).pipe(dest("css"));
+  return src("shinobi/**/*.scss")
+    .pipe(sass().on("error", sass.logError))
+    .pipe(dest("css"));
 }
 
 //watch sass files for changes

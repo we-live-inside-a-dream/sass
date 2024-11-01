@@ -1,10 +1,11 @@
 // variables & functions
-@use 'shinobi/_variables' as *;
+@use '_variables' as *;
 
 // base & layout
-@use 'shinobi/_base' as *;
+@use '_base' as *;
 
 // colors
+@use '_colors' as *;
 
 // components (button, card, navbar)
 @use 'components/_card' as *;
