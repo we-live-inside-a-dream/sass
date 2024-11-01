@@ -3,12 +3,12 @@ const sass = require("gulp-sass")(require("sass"));
 
 // Compiling SCSS to CSS
 function buildStyles() {
-  return src("*.scss").pipe(sass()).pipe(dest("css"));
+  return src("shinobi/**/*.scss").pipe(sass()).pipe(dest("css"));
 }
 
 //watch sass files for changes
 function watchFiles() {
-  watch(["*.scss"], buildStyles);
+  watch(["shinobi/**/*.scss"], buildStyles);
 }
 
 exports.default = series(buildStyles, watchFiles);
