@@ -2598,6 +2598,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #326dee;
+  background-color: #326dee;
 }
 
 .btn-outlined-primary {
@@ -2607,8 +2608,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid #326dee;
   background-color: #fff;
+  border: 1px solid #326dee;
 }
 
 .btn-secondary {
@@ -2619,6 +2620,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #1ac888;
+  background-color: #1ac888;
 }
 
 .btn-outlined-secondary {
@@ -2628,8 +2630,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid #1ac888;
   background-color: #fff;
+  border: 1px solid #1ac888;
 }
 
 .btn-error {
@@ -2640,6 +2642,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #d32752;
+  background-color: #d32752;
 }
 
 .btn-outlined-error {
@@ -2649,8 +2652,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid #d32752;
   background-color: #fff;
+  border: 1px solid #d32752;
 }
 
 .btn-info {
@@ -2661,6 +2664,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #f6c31c;
+  background-color: #f6c31c;
 }
 
 .btn-outlined-info {
@@ -2670,8 +2674,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid #f6c31c;
   background-color: #fff;
+  border: 1px solid #f6c31c;
 }
 
 .btn-blue {
@@ -2682,6 +2686,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #1919e6;
+  background-color: #1919e6;
 }
 
 .btn-outlined-blue {
@@ -2691,8 +2696,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid #1919e6;
   background-color: #fff;
+  border: 1px solid #1919e6;
 }
 
 .btn-red {
@@ -2703,6 +2708,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #e61919;
+  background-color: #e61919;
 }
 
 .btn-outlined-red {
@@ -2712,8 +2718,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid #e61919;
   background-color: #fff;
+  border: 1px solid #e61919;
 }
 
 .btn-yellow {
@@ -2724,6 +2730,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #e6e619;
+  background-color: #e6e619;
 }
 
 .btn-outlined-yellow {
@@ -2733,8 +2740,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid #e6e619;
   background-color: #fff;
+  border: 1px solid #e6e619;
 }
 
 .btn-green {
@@ -2745,6 +2752,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #19e635;
+  background-color: #19e635;
 }
 
 .btn-outlined-green {
@@ -2754,8 +2762,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid #19e635;
   background-color: #fff;
+  border: 1px solid #19e635;
 }
 
 .btn-orange {
@@ -2766,6 +2774,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #ffa600;
+  background-color: #ffa600;
 }
 
 .btn-outlined-orange {
@@ -2775,8 +2784,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid #ffa600;
   background-color: #fff;
+  border: 1px solid #ffa600;
 }
 
 .btn-purple {
@@ -2787,6 +2796,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #9900ff;
+  background-color: #9900ff;
 }
 
 .btn-outlined-purple {
@@ -2796,8 +2806,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid #9900ff;
   background-color: #fff;
+  border: 1px solid #9900ff;
 }
 
 .btn-gray {
@@ -2808,6 +2818,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: #808080;
+  background-color: #808080;
 }
 
 .btn-outlined-gray {
@@ -2817,8 +2828,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid #808080;
   background-color: #fff;
+  border: 1px solid #808080;
 }
 
 .btn-black {
@@ -2829,6 +2840,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: black;
+  background-color: black;
 }
 
 .btn-outlined-black {
@@ -2838,8 +2850,8 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid black;
   background-color: #fff;
+  border: 1px solid black;
 }
 
 .btn-white {
@@ -2850,6 +2862,7 @@ h1 a {
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
   background-color: white;
+  background-color: white;
 }
 
 .btn-outlined-white {
@@ -2859,6 +2872,6 @@ h1 a {
   border: 0;
   padding: 0.75rem 1.5rem;
   border-radius: 20px;
-  border: 1px solid white;
   background-color: #fff;
+  border: 1px solid white;
 }

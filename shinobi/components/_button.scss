@@ -1,22 +1,22 @@
 @use '_variables' as *;
 
-@mixin btn() {
+@mixin btn($bg-color) {
     text-decoration: none;
-        cursor: pointer;
-        display: inline-block;
-        border: 0;
-        padding: $base-padding $base-padding * 2;
-        border-radius: $base-border-radius;
+    cursor: pointer;
+    display: inline-block;
+    border: 0;
+    padding: $base-padding $base-padding * 2;
+    border-radius: $base-border-radius;
+    background-color: $bg-color;
 }
 
 @each $key, $val in $colors {
     .btn-#{$key} {
-        @include btn();
+        @include btn($val);
         background-color: $val;
     }
     .btn-outlined-#{$key} {
-        @include btn();
+        @include btn(#fff);
         border: $base-border-thickness solid $val;
-        background-color: #fff;
     }
 }
