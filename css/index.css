@@ -2610,6 +2610,9 @@ h1 a {
   background-color: #326dee;
   background-color: #326dee;
 }
+.btn-primary:hover {
+  background-color: rgb(73.5472972973, 125.7702702703, 239.9527027027);
+}
 
 .btn-outlined-primary {
   text-decoration: none;
@@ -2620,6 +2623,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid #326dee;
+}
+.btn-outlined-primary:hover {
+  background-color: #326dee;
 }
 
 .btn-secondary {
@@ -2632,6 +2638,9 @@ h1 a {
   background-color: #1ac888;
   background-color: #1ac888;
 }
+.btn-secondary:hover {
+  background-color: rgb(28.9336283186, 222.5663716814, 151.3451327434);
+}
 
 .btn-outlined-secondary {
   text-decoration: none;
@@ -2642,6 +2651,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid #1ac888;
+}
+.btn-outlined-secondary:hover {
+  background-color: #1ac888;
 }
 
 .btn-error {
@@ -2654,6 +2666,9 @@ h1 a {
   background-color: #d32752;
   background-color: #d32752;
 }
+.btn-error:hover {
+  background-color: rgb(218.418, 57.082, 97.416);
+}
 
 .btn-outlined-error {
   text-decoration: none;
@@ -2664,6 +2679,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid #d32752;
+}
+.btn-outlined-error:hover {
+  background-color: #d32752;
 }
 
 .btn-info {
@@ -2676,6 +2694,9 @@ h1 a {
   background-color: #f6c31c;
   background-color: #f6c31c;
 }
+.btn-info:hover {
+  background-color: rgb(246.9724576271, 201.4830508475, 52.5275423729);
+}
 
 .btn-outlined-info {
   text-decoration: none;
@@ -2686,6 +2707,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid #f6c31c;
+}
+.btn-outlined-info:hover {
+  background-color: #f6c31c;
 }
 
 .btn-blue {
@@ -2698,6 +2722,9 @@ h1 a {
   background-color: #1919e6;
   background-color: #1919e6;
 }
+.btn-blue:hover {
+  background-color: rgb(48, 48, 232.5);
+}
 
 .btn-outlined-blue {
   text-decoration: none;
@@ -2708,6 +2735,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid #1919e6;
+}
+.btn-outlined-blue:hover {
+  background-color: #1919e6;
 }
 
 .btn-red {
@@ -2720,6 +2750,9 @@ h1 a {
   background-color: #e61919;
   background-color: #e61919;
 }
+.btn-red:hover {
+  background-color: rgb(232.5, 48, 48);
+}
 
 .btn-outlined-red {
   text-decoration: none;
@@ -2730,6 +2763,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid #e61919;
+}
+.btn-outlined-red:hover {
+  background-color: #e61919;
 }
 
 .btn-yellow {
@@ -2742,6 +2778,9 @@ h1 a {
   background-color: #e6e619;
   background-color: #e6e619;
 }
+.btn-yellow:hover {
+  background-color: rgb(232.5, 232.5, 48);
+}
 
 .btn-outlined-yellow {
   text-decoration: none;
@@ -2752,6 +2791,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid #e6e619;
+}
+.btn-outlined-yellow:hover {
+  background-color: #e6e619;
 }
 
 .btn-green {
@@ -2764,6 +2806,9 @@ h1 a {
   background-color: #19e635;
   background-color: #19e635;
 }
+.btn-green:hover {
+  background-color: rgb(48, 232.5, 73.2);
+}
 
 .btn-outlined-green {
   text-decoration: none;
@@ -2774,6 +2819,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid #19e635;
+}
+.btn-outlined-green:hover {
+  background-color: #19e635;
 }
 
 .btn-orange {
@@ -2786,6 +2834,9 @@ h1 a {
   background-color: #ffa600;
   background-color: #ffa600;
 }
+.btn-orange:hover {
+  background-color: rgb(255, 174.9, 25.5);
+}
 
 .btn-outlined-orange {
   text-decoration: none;
@@ -2796,6 +2847,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid #ffa600;
+}
+.btn-outlined-orange:hover {
+  background-color: #ffa600;
 }
 
 .btn-purple {
@@ -2808,6 +2862,9 @@ h1 a {
   background-color: #9900ff;
   background-color: #9900ff;
 }
+.btn-purple:hover {
+  background-color: rgb(163.2, 25.5, 255);
+}
 
 .btn-outlined-purple {
   text-decoration: none;
@@ -2818,6 +2875,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid #9900ff;
+}
+.btn-outlined-purple:hover {
+  background-color: #9900ff;
 }
 
 .btn-gray {
@@ -2830,6 +2890,9 @@ h1 a {
   background-color: #808080;
   background-color: #808080;
 }
+.btn-gray:hover {
+  background-color: rgb(140.75, 140.75, 140.75);
+}
 
 .btn-outlined-gray {
   text-decoration: none;
@@ -2840,6 +2903,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid #808080;
+}
+.btn-outlined-gray:hover {
+  background-color: #808080;
 }
 
 .btn-black {
@@ -2852,6 +2918,9 @@ h1 a {
   background-color: black;
   background-color: black;
 }
+.btn-black:hover {
+  background-color: rgb(12.75, 12.75, 12.75);
+}
 
 .btn-outlined-black {
   text-decoration: none;
@@ -2862,6 +2931,9 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid black;
+}
+.btn-outlined-black:hover {
+  background-color: black;
 }
 
 .btn-white {
@@ -2874,6 +2946,9 @@ h1 a {
   background-color: white;
   background-color: white;
 }
+.btn-white:hover {
+  background-color: white;
+}
 
 .btn-outlined-white {
   text-decoration: none;
@@ -2884,4 +2959,7 @@ h1 a {
   border-radius: 20px;
   background-color: #fff;
   border: 1px solid white;
+}
+.btn-outlined-white:hover {
+  background-color: white;
 }

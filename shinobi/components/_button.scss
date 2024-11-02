@@ -18,9 +18,15 @@
     .btn-#{$key} {
         @include btn($val);
         background-color: $val;
+        &:hover {
+            background-color: lighten($val, 5%);
+        }
     }
     .btn-outlined-#{$key} {
         @include btn(#fff);
         border: $base-border-thickness solid $val;
+        &:hover {
+            background-color: $val;
+        }
     }
 }
