@@ -12,7 +12,7 @@ function buildStyles() {
 
 //watch sass files for changes
 function watchFiles() {
-  watch(["shinobi/**/*.scss"], buildStyles);
+  watch(["shinobi/**/*.scss", "*.html"], buildStyles);
 }
 
 exports.default = series(buildStyles, watchFiles);
